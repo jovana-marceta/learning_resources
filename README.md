@@ -17,5 +17,8 @@ Free test automation courses with videos, transcripts, quizzes, credits, ranks b
  - [Software Testing and Quality Assurance: The Big Picture](https://app.pluralsight.com/library/courses/software-testing-quality-assurance-big-picture/table-of-contents)
 This course will give you a broad introduction to the established practices and approaches to testing and improving the quality of software products.
 
+## AI Tools
 
+ - [Tiny Wow](https://tinywow.com/)
+We offer PDF, video, image and other online tools to make your life easier
 
